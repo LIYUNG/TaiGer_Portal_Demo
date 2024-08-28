@@ -2,6 +2,8 @@
 
 The project of TaiGer portal will increase the efficiency of files exchange and communication between editor, agent and students. With a great overview, agent and editor can follow up the application process of each student. Furthermore, it opens a bunch of opportunities to extend the service to students like transcript-analysis.
 
+The production link: https://taigerconsultancy-portal.com/
+
 ## Technology Overview
 
 TaiGer portal is implemented by JavaScript framework ExpressJS as backend to serve API requsts and ReactJS as frontend. MongoDB stores all user data. Special service like Transcript-Analysis is implemented in Python.
