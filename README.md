@@ -3,6 +3,7 @@
 The project of TaiGer portal will increase the efficiency of files exchange and communication between editor, agent and students. With a great overview, agent and editor can follow up the application process of each student. Furthermore, it opens a bunch of opportunities to extend the service to students like transcript-analysis.
 
 The production link: https://taigerconsultancy-portal.com/
+TaiGer Portal Architecture: https://github.com/LIYUNG/TaiGer_Portal_Arch
 
 ## Technology Overview
 
